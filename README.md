@@ -1,7 +1,13 @@
 
 <span style="display:block" class="note" align="center" class="background: black;">
-
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9F6CB1,100:59BAA5)
+
+<div align="center">
+
+  <h1>Hi, I'm Britt 👋🏼</h1><img height="auto" width="200" src="https://github.com/Britt4444/Britt4444/assets/110925259/c32a4c09-03cb-4fc3-9ee3-9b99e0ad3152" />
+
+</div>
 
 <div class="profile-badges" align="center">
 
@@ -12,13 +18,9 @@
 
 </div>
 
-<div class="lang-and-tools" align="center">
-
 ### :hammer_and_wrench: Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,nodejs,react,ruby,postgres,prisma,git,github,vscode,jest,vim,html,css,sass,materialui,bootstrap&perLine=5)](https://skillicons.dev)
-
-</div>
 
   
 ### :fire: My Stats
