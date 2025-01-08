@@ -20,7 +20,7 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,nodejs,react,ruby,postgres,prisma,git,github,vscode,jest,vim,html,css,sass,materialui,bootstrap&perLine=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,jquery,nextjs,nodejs,react,ruby,postgres,prisma,git,github,vscode,jest,vim,html,css,sass,materialui,bootstrap&perLine=5)](https://skillicons.dev)
 
   
 ### :fire: My Stats
